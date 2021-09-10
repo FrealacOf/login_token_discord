@@ -2,7 +2,7 @@ import os
 import keyboard
 from selenium import webdriver
 import time
-import os
+
 
 token_ask = input("C'est quoi le token ? > ")
 
